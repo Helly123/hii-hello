@@ -1,0 +1,1 @@
+sqlcmd -S localhost\SQLExpress -E /i db_attach.sql
